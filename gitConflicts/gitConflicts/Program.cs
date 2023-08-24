@@ -12,3 +12,4 @@ var test5 = "hello5";
 
 var test4 = "hello4";
 
+var test7 = "hello7";
