@@ -12,8 +12,5 @@ var test5 = "hello5";
 
 var test4 = "hello4";
 
-<<<<<<< HEAD
 var test7 = "hello7";
-=======
 var test6 = "hello6";
->>>>>>> main
